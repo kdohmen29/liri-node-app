@@ -1,0 +1,251 @@
+
+        
+SONG DATA
+Artist: Yellowcard
+Song name: Ocean Avenue
+Album name: Ocean Avenue
+Preview the song here: null
+*Command used: "spotify-this-song"
+
+        
+SONG DATA
+Artist: Drake
+Song name: Jaded
+Album name: Scorpion
+Preview the song here: null
+*Command used: "spotify-this-song"
+
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+      
+  CONCERT DATA
+  Artist(s): Weezer
+  Venue: Florida Man Music Festival
+  Venue location: Orlando, FL, United States
+  Date of event:  11/30/2018
+  *Command used: "concert-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+      
+  CONCERT DATA
+  Artist(s): Weezer
+  Venue: Florida Man Music Festival
+  Venue location: Orlando, FL, United States
+  Date of event:  11/30/2018
+  *Command used: "concert-this"
+  
+      
+  CONCERT DATA
+  Artist(s): Jack
+  Venue: Fabric
+  Venue location: London, , United Kingdom
+  Date of event:  11/18/2018
+  *Command used: "concert-this"
+  
+      
+  CONCERT DATA
+  Artist(s): Weezer
+  Venue: Florida Man Music Festival
+  Venue location: Orlando, FL, United States
+  Date of event:  11/30/2018
+  *Command used: "concert-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+      
+  CONCERT DATA
+  Artist(s): Weezer
+  Venue: Florida Man Music Festival
+  Venue location: Orlando, FL, United States
+  Date of event:  11/30/2018
+  *Command used: "concert-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+      
+  CONCERT DATA
+  Artist(s): Weezer
+  Venue: Florida Man Music Festival
+  Venue location: Orlando, FL, United States
+  Date of event:  11/30/2018
+  *Command used: "concert-this"
+  
+  MOVIE DATA
+  Title: undefined
+  Release year: undefined
+  IMDB rating: undefined
+  Rotten Tomatoes score: undefined
+  Country(ies) where movie was produced: undefined
+  Language: undefined
+  Plot: undefined
+  Actors: undefined
+  *Command used: "movie-this"
+  
+  MOVIE DATA
+  Title: Cinderella
+  Release year: 2015
+  IMDB rating: 6.9
+  Rotten Tomatoes score: [object Object],[object Object],[object Object]
+  Country(ies) where movie was produced: USA, UK
+  Language: English
+  Plot: When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+  Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+  *Command used: "movie-this"
+  
+  MOVIE DATA
+  Title: Cinderella
+  Release year: 2015
+  IMDB rating: 6.9
+  Rotten Tomatoes score: 83%
+  Country(ies) where movie was produced: USA, UK
+  Language: English
+  Plot: When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+  Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+  *Command used: "movie-this"
+  
