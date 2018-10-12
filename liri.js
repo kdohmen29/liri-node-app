@@ -60,7 +60,7 @@ function spotifyThisSong(song) {
         if (err) {
             return console.log('Error occurred: ' + err);
         }
-        console.log(data);
+        // console.log(data);
         // Store all the song info we want into a variable
         var songData = `
         

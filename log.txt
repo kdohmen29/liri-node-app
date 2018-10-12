@@ -249,3 +249,70 @@ Preview the song here: null
   Actors: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
   *Command used: "movie-this"
   
+        
+SONG DATA
+Artist: Marshmello
+Song name: Happier
+Album name: Happier
+Preview the song here: null
+*Command used: "spotify-this-song"
+
+        
+SONG DATA
+Artist: Marshmello
+Song name: Happier
+Album name: Happier
+Preview the song here: null
+*Command used: "spotify-this-song"
+
+        
+SONG DATA
+Artist: Tiësto
+Song name: Jackie Chan
+Album name: Jackie Chan
+Preview the song here: null
+*Command used: "spotify-this-song"
+
+        
+SONG DATA
+Artist: benny blanco
+Song name: Eastside (with Halsey & Khalid)
+Album name: Eastside (with Halsey & Khalid)
+Preview the song here: null
+*Command used: "spotify-this-song"
+
+        
+SONG DATA
+Artist: benny blanco
+Song name: Eastside (with Halsey & Khalid)
+Album name: Eastside (with Halsey & Khalid)
+Preview the song here: null
+*Command used: "spotify-this-song"
+
+        
+SONG DATA
+Artist: benny blanco
+Song name: Eastside (with Halsey & Khalid)
+Album name: Eastside (with Halsey & Khalid)
+Preview the song here: null
+*Command used: "spotify-this-song"
+
+      
+  CONCERT DATA
+  Artist(s): Marshmello
+  Venue:  Q100 Q-topia Fest
+  Venue location: Atlanta, GA, United States
+  Date of event:  10/12/2018
+  *Command used: "concert-this"
+  
+  MOVIE DATA
+  Title: The Mask
+  Release year: 1994
+  IMDB rating: 6.9
+  Rotten Tomatoes score: 77%
+  Country(ies) where movie was produced: USA
+  Language: English, Swedish
+  Plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.
+  Actors: Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+  *Command used: "movie-this"
+  
